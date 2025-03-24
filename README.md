@@ -3,8 +3,10 @@
 This project showcases a complete business intelligence dashboard built using real-world-style restaurant data. The goal was to analyse and visualise key performance indicators (KPIs), item-level trends, and sales breakdowns for a fictional fast food business.
 
 ##  Files Included
-- `Balaji_Fast_Food_Cleaned.csv` – Cleaned dataset used in Tableau
-- `Sales Dashboard.pdf` – Final exported dashboard visual
+- [`Balaji_Fast_Food_Cleaned.csv`](./Balaji_Fast_Food_Cleaned.csv) – Cleaned dataset used in Tableau
+- [`Balaji_Fast_Food_KPI_Workbook.xlsx`](./Balaji_Fast_Food_KPI_Workbook.xlsx) - Pivot Tables & KPI calculations
+- [`Sales Dashboard.pdf`](./Sales%20Dashboard.pdf) – Final exported dashboard visual
+- [`Balaji_Fast_Food_Dashboard.twbx`](./Balaji_Fast_Food_Dashboard.twbx) - Packaged Tableau Workbook
 - `README.md` – Project overview and insights
 
 ##  Tools Used
@@ -20,7 +22,7 @@ This project showcases a complete business intelligence dashboard built using re
 - **Interactive Date Filter**
 
 ##  Live Tableau Dashboard
-🔗 *[Coming soon – will update with link]*
+ **[View Dashboard on Tableau Public](https://public.tableau.com/views/BalajiFastFoodSalesDashboard_17427690599420/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
