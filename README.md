@@ -29,7 +29,7 @@ This project showcases a complete business intelligence dashboard built using re
 ##  About Me
 
 **Arun Raj Prasannarajan**  
-Aspiring Data Analyst with a background in operations and business analytics.  
+Supply Chain professional with a background in operations and business analytics.  
 Focused on turning raw data into clear, actionable insights.
 
  Connect with me on [LinkedIn](www.linkedin.com/in/arun-raj-prasannarajan-0b1671140)
